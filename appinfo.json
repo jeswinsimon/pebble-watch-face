@@ -1,0 +1,45 @@
+{
+  "uuid": "7112d624-6555-4279-89ae-c086e9369427",
+  "shortName": "PD",
+  "longName": "PD",
+  "companyName": "911",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_drop_zone.png"
+      },
+      {
+        "characterRegex": "[:0-9]",
+        "type": "font",
+        "name": "FONT_PORSCHE_44",
+        "file": "fonts/SK-Porsche.ttf"
+      },
+      {
+        "characterRegex": "[:0-9]",
+        "type": "font",
+        "name": "FONT_PORSCHE_18",
+        "file": "fonts/SK-Porsche.ttf"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_AM_ICON",
+        "file": "images/format_a.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_PM_ICON",
+        "file": "images/format_p.png",
+        "menu_icon": true
+      }
+    ]
+  }
+}
